@@ -1,6 +1,10 @@
 # decoy-pages-and-logins
 a collection of look-alike logins and other "official" things that can easily be spoofed
 
+# links
+- [AWS Login]()
+- [Google Login]()
+
 # process
 
 Right click the page, save page as .html  
