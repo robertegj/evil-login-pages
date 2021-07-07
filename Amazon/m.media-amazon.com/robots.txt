@@ -1,0 +1,2 @@
+User-agent: Baiduspider
+Disallow: /images/G/01/imdb/css/
