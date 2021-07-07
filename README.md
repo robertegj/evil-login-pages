@@ -19,3 +19,5 @@ with (window.open("")) {
     focus();
 }
 ```
+# todo
+add emails
