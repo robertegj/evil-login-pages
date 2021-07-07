@@ -5,7 +5,7 @@ a collection of look-alike logins and other "official" things that can easily be
 - [Amazon Login](https://robertegj.github.io/decoy-pages-and-logins/Amazon/login.html)
 - [Google Login](https://robertegj.github.io/decoy-pages-and-logins/Google/login.html)
 - [GitLab Login](https://robertegj.github.io/decoy-pages-and-logins/Gitlab/login.html)
-- 
+
 # process
 
 Right click the page, save page as .html  
