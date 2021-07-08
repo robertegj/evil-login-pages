@@ -44,4 +44,5 @@ with (window.open("")) {
 }
 ```
 # todo
-add emails
+- add more emails
+- add more links to readme
