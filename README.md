@@ -25,9 +25,9 @@ there are no tracking scripts inlcuded - this is:
 - [Google Login](https://robertegj.github.io/decoy-pages-and-logins/Google/login.html)
 - [GitLab Login](https://robertegj.github.io/decoy-pages-and-logins/Gitlab/login.html)
 
-# process
+# how i did it
 
-Right click the page, save page as .html  
+Right click the login page, save page as .html  
 wget -E -H -k -K -p that_page.html  
 
 
