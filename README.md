@@ -7,7 +7,7 @@ the first reaction i had when I showed these logins to someone:
 > That's scary  
 > --Someone
 
-this repo was put together in less than an hour - it's really trivial to "spoof" a login.  
+this repo was put together in less than an hour - it's really easy to "spoof" a login page.  
 i created this to demonstrate that.  
 
 this is **absolutely not** an original idea.  
