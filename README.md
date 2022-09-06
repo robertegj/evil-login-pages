@@ -1,3 +1,11 @@
+there are no tracking scripts inlcuded - this is:  
+### a purely static recreation of common logins, emails, and other important pages to raise awareness of the simplicity of this "attack vector"
+
+# links
+- [Amazon Login](https://robertegj.github.io/decoy-pages-and-logins/Amazon/login.html)
+- [Google Login](https://robertegj.github.io/decoy-pages-and-logins/Google/login.html)
+- [GitLab Login](https://robertegj.github.io/decoy-pages-and-logins/Gitlab/login.html)
+
 # evil login pages
 a collection of look-alike logins and other "official" things that can easily be spoofed
 
@@ -15,15 +23,6 @@ in fact, some phishing tools (that come preinstalled in Kali!) actually have **b
 
 this is not that.  
 this is strictly for educational purposes.  
-
-there are no tracking scripts inlcuded - this is:  
-### a purely static recreation of common logins, emails, and other important pages to raise awareness of the simplicity of this "attack vector"
-
-
-# links
-- [Amazon Login](https://robertegj.github.io/decoy-pages-and-logins/Amazon/login.html)
-- [Google Login](https://robertegj.github.io/decoy-pages-and-logins/Google/login.html)
-- [GitLab Login](https://robertegj.github.io/decoy-pages-and-logins/Gitlab/login.html)
 
 # how i did it
 
