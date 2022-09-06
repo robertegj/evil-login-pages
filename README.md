@@ -1,7 +1,7 @@
 there are no tracking scripts inlcuded - this is:  
 ### a purely static recreation of common logins
 
-# links
+# try it out
 - [Amazon Login](https://robertegj.github.io/decoy-pages-and-logins/Amazon/login.html)
 - [Google Login](https://robertegj.github.io/decoy-pages-and-logins/Google/login.html)
 - [GitLab Login](https://robertegj.github.io/decoy-pages-and-logins/Gitlab/login.html)
