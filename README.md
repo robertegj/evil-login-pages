@@ -1,5 +1,5 @@
 there are no tracking scripts inlcuded - this is:  
-### a purely static recreation of common logins, emails, and other important pages to raise awareness of the simplicity of this "attack vector"
+### a purely static recreation of common logins
 
 # links
 - [Amazon Login](https://robertegj.github.io/decoy-pages-and-logins/Amazon/login.html)
