@@ -1,4 +1,4 @@
-# decoy-pages-and-logins
+# evil login pages
 a collection of look-alike logins and other "official" things that can easily be spoofed
 
 # why do this?
