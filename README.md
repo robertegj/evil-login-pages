@@ -3,8 +3,8 @@ there are no tracking scripts inlcuded - this is:
 
 # try it out
 - [Amazon Login](https://robertegj.github.io/evil-login-pages/Amazon/login.html)
-- [Google Login](https://robertegj.github.io/evil-login-pages/Amazon/login.html)
-- [GitLab Login](https://robertegj.github.io/evil-login-pages/Amazon/login.html)
+- [Google Login](https://robertegj.github.io/evil-login-pages/Google/login.html)
+- [GitLab Login](https://robertegj.github.io/evil-login-pages/Gitlab/login.html)
 
 # evil login pages
 a collection of look-alike logins and other "official" things that can easily be spoofed
