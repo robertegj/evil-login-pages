@@ -2,9 +2,9 @@ there are no tracking scripts inlcuded - this is:
 ### a purely static recreation of common logins
 
 # try it out
-- [Amazon Login](https://robertegj.github.io/decoy-pages-and-logins/Amazon/login.html)
-- [Google Login](https://robertegj.github.io/decoy-pages-and-logins/Google/login.html)
-- [GitLab Login](https://robertegj.github.io/decoy-pages-and-logins/Gitlab/login.html)
+- [Amazon Login](https://robertegj.github.io/evil-login-pages/Amazon/login.html)
+- [Google Login](https://robertegj.github.io/evil-login-pages/Amazon/login.html)
+- [GitLab Login](https://robertegj.github.io/evil-login-pages/Amazon/login.html)
 
 # evil login pages
 a collection of look-alike logins and other "official" things that can easily be spoofed
